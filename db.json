@@ -1,0 +1,16 @@
+{
+  "patients": [
+    {
+      "id": "1",
+      "patientName": "Rahim",
+      "number": "01710000001",
+      "address": "Dhaka, Bangladesh",
+      "userType": "Patient",
+      "activeStatus": "Online",
+      "refBy": "Self",
+      "due": 0,
+      "registrationDate": "2024-12-01",
+      "isVerified": true
+    }
+  ]
+}
